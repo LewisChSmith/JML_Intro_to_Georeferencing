@@ -1,0 +1,34 @@
+JML Acc,Case no,admitted on,arrived from Nation,arrived from,Latitude,Longitude,ALatLong,birth place Nation,birth place,nationality,age,trade sector,destination Nation,destination local,Latitude,Longitude,DLatLong,destination specific,date of departure,number in group
+1688.915.740,27501,1950-04-01,Czechoslovakia,Prague,50.0667,14.4661,"50.0667 ,14.4661",Scotland,Glasgow,British,48,Merchantile,England,Madeley,52.6374,-2.4488,"52.6374 ,-2.4488",,1900-02-01,0
+1688.915.741,27512,1950-04-01,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",Austria,Vienna,Polish,,,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",E1,1950-02-02,0
+1688.915.742,27504,1950-01-28,India,Kolkata,22.5656,88.3702,"22.5655734 ,88.3702152",Poland,Lodz,Polish,22,Engineering,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",E1,1950-02-16,0
+1688.915.743,27486,1950-04-01,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",India,Bombay,British,36,Education,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",E1,1950-04-08,1
+1688.915.744,27511,1950-02-15,Belgium,Brussels,50.8360,4.3707,"50.836025 ,4.370705",Latvia,Rozekne,Latvian ,20,Merchantile,England,Liverpool,53.4000,-3.0000,"53.4 ,-3",For the Empress of Canada,1950-02-10,0
+1688.915.745,27491,1950-01-27,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",,,Russian,,Merchantile,,,0.0000,0.0000,"0 ,0",,1950-04-10,0
+1688.915.746,27485,1900-01-01,England,Carlisle,54.8951,-2.9336,"54.895063 ,-2.9335528",Poland,,Polish,37,,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",E1,1950-01-10,1
+1688.915.747,27499,1950-03-28,Germany,Frankfurt,50.1109,8.6795,"50.110884 ,8.6794922",Myanmar,Rangoon,British,31,,,,0.0000,0.0000,"0 ,0",,1950-07-08,1
+1688.915.748,27502,1949-12-14,France,Paris,48.8569,2.3508,"48.856895 ,2.3508487",Poland,,Lithuanian,53,,England,Liverpool,53.4000,-3.0000,"53.4 ,-3",For the Empress of Canada,1950-01-10,2
+1688.915.749,27514,1900-01-01,,,0,0,"0 ,0",India,Bombay,Indian,23,,England,Thorpe-le-Soken,51.8570,1.1640,"51.857 ,1.164",,1950-01-29,0
+1688.915.750,27496,1950-04-01,India,Mumbai,18.9750,72.8258,"18.975 ,72.825833",,,,,,,,0.0000,0.0000,"0 ,0",,1900-02-01,0
+1688.915.751,27483,1949-12-15,Scotland,Glasgow,55.8580,-4.2590,"55.858 ,-4.259",Hungary,,Stateless,37,,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",,1950-02-02,4
+1688.915.752,27516,1900-01-01,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",Iraq,Baghdad,British,50,,Wales,New Tredegar,51.7190,-3.2357,"51.7189516 ,-3.2356887",,1900-02-01,4
+1688.915.753,27497,1950-03-05,Austria,Vienna,48.2025,16.3688,"48.2025 ,16.3688",England,,British,44,Domestic,Israel,,0.0000,0.0000,"0 ,0",,1950-04-02,0
+1688.915.754,27498,1950-04-01,France,Nice,43.7034,7.2663,"43.7034273 ,7.2662656",,,,,Industrial,England,Oldham,53.5444,-2.1169,"53.5444 ,-2.1169",,1950-04-02,0
+1688.915.755,27507,1946-03-03,France,Paris,48.8569,2.3508,"48.856895 ,2.3508487",,,Stateless,16,,England,Birmingham,52.4829,-1.8935,"52.4828994 ,-1.8934623",,1946-03-04,0
+1688.915.756,27488,1950-03-16,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",India,Bombay,British,26,Religious,France,Paris,48.8569,2.3508,"48.856895 ,2.3508487",,1950-04-08,1
+1688.915.757,27484,1950-04-01,Hungary,Budapest,47.4981,19.0405,"47.4981 ,19.0405",Poland,,Polish,31,Industrial,,,0.0000,0.0000,"0 ,0",,1950-03-29,1
+1688.915.758,27500,1950-01-09,Belgium,Brussels,50.8360,4.3707,"50.836025 ,4.370705",Poland,Skoltz,Polish,70,Industrial,England,Liverpool,53.4000,-3.0000,"53.4 ,-3",For the Empress of Canada,1900-02-01,0
+1688.915.759,27515,1950-02-23,England,Oldham,53.5444,-2.1169,"53.5444 ,-2.1169",,,British,23,,Canada,,0.0000,0.0000,"0 ,0",,1950-01-29,0
+1688.915.760,27510,1950-04-01,Germany,Frankfurt,50.1109,8.6795,"50.110884 ,8.6794922",Cz?stochowa,Poland,Polish,55,Industrial,England,Tasburgh,52.5128,1.2481,"52.51276 ,1.2481",,1946-05-17,0
+1688.915.761,27493,1950-04-01,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",,,,,Merchantile,England,Hornchurch,51.5565,0.2128,"51.556503 ,0.212812",RAF Station,1900-02-01,0
+1688.915.762,27494,1950-01-23,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",,,,,Engineering,,,0.0000,0.0000,"0 ,0",,1900-02-01,0
+1688.915.763,27505,1949-12-23,Canada,,0,0,"0 ,0",,,Czecho-Slovak,30,,,,0.0000,0.0000,"0 ,0",,1950-02-16,0
+1688.915.764,27509,1950-01-30,Hong Kong,Hong Kong,0,0,"0 ,0",Germany,,Polish,34,Engineering,England,"Preston, Lancashire",53.7590,-2.6990,"53.759 ,-2.699",,1900-02-01,3
+1688.915.765,27495,1950-04-01,Czechoslovakia,Prague,50.0667,14.4661,"50.0667 ,14.4661",,,Polish,59,Artisanal,India,Kolkata,22.5656,88.3702,"22.5655734 ,88.3702152",,1900-02-01,0
+1688.915.766,27503,1950-04-01,England,Tamworth,52.6330,-1.6950,"52.633 ,-1.695",Lithuania,,Russian,60,Engineering,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",E1,1900-02-01,0
+1688.915.768,27489,1950-02-15,England,"Preston, Lancashire",53.7590,-2.6990,"53.759 ,-2.699",,,Czecho-Slovak,31,Merchantile,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",EC1,1950-02-15,4
+1688.915.769,27490,1950-01-08,Germany,Munich,48.1391,11.5802,"48.1391264 ,11.5802189",Hungary,,Hungarian,44,Hospitality,England,Guildford,51.2365,-0.5703,"51.2365 ,-0.5703",,1949-12-17,4
+1688.915.770,27492,1950-01-31,Hong Kong,Hong Kong,22.3361,114.1869,"22.3361 ,114.1869",Russia,,British,50,Industrial,England,Newton-le-Willows,53.4500,-2.6330,"53.45 ,-2.633",,1951-06-20,3
+1688.915.771,27487,1950-03-27,England,,0,0,"0 ,0",Czechoslovakia,,Czecho-Slovak,44,,England,Tamworth,52.6330,-1.6950,"52.633 ,-1.695",,1949-12-17,2
+1688.915.772,27506,1950-03-31,Israel,Haifa,32.8173,34.9888,"32.817285 ,34.988765",Poland,,Polish,39,Military,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",W5,1949-12-30,2
+1688.915.773,27508,1950-06-26,England,London,51.5002,-0.1262,"51.5001524 ,-0.1262362",Ukraine,Velky Berezny,Czecho-Slovak,15,Artisanal,England,Manchester,53.4807,-2.2344,"53.4807125 ,-2.2343765",,1947-10-19,0
